@@ -1,12 +1,4 @@
 # TODO:
 
 # part 1
-...
-
-# part 2
-...
-
-# part 3
-...
-
-# run via python maths.py
+print (22,11)
