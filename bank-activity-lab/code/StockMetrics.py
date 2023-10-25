@@ -31,3 +31,4 @@ class StockMetrics(StockData):
         """pt3
         """
         ...
+print(hi)
